@@ -1,1 +1,2 @@
-# GUT
+# GUT - GLPI UPDATER TOOL
+
